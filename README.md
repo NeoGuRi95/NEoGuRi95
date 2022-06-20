@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Java, Python, RPA
 - 📫 How to reach me: jea5158@naver.com
-- 😄 Industrial Information System Engineering, Soongsil Univ
+- ⚡ Industrial Information System Engineering, Soongsil Univ
 <!--
 **NeoGuRi95/NEoGuRi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
