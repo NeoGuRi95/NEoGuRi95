@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java, Python, RPA
 - 📫 How to reach me: jea5158@naver.com
 - ⚡ Industrial Information System Engineering, Soongsil Univ
 <!--
