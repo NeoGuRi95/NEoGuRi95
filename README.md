@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 안녕하세요. 얼마 전에 유튜브에서 '노마드 코더'라는 유튜버가 블록체인으로 간단하게 통신?하는 걸 알려주더라구요.
 영상을 보니깐 신기하더라구요...그리고 생각보다 엄청 어려워 보이진 않더라구요?
 그래서 간단하게 블록체인을 활용하는 프로젝트를 해보면 좋을 것 같았습니다.
-<img src="https://t1.daumcdn.net/cfile/blog/9986C2375C47897710" width="300">
+<img src="https://t1.daumcdn.net/cfile/blog/9986C2375C47897710" width="500">
 
 ### 아이디어명
 블록체인 기반 웹사이트
